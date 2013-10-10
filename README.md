@@ -2,7 +2,9 @@ Ext.Direct-tutorial
 ===================
 
 ### EN
-In progress.
+Source files for Ext.Direct tutorial
+*   [part 1](http://devjs.eu/en/ext-direct-and-json-server-based-on-zend/ "Ext.Direct and ZF")
+*   [part 2](http://devjs.eu/en/use-cases-of-ext-direct/ "Use cases of Ext.Direct")
 
 ### PL
 Pliki źródłowe dla tutoriala z Ext.Direct
